@@ -22,9 +22,12 @@ Quick links:
 
 ---
 
-## UI overview
+### Interface guide
 
-<img width="1031" height="880" alt="Winslop_annotated_outside_EN_v3" src="https://github.com/user-attachments/assets/f661f0ee-b87b-401e-9121-f48addc38fe3" />
+Below is a quick overview of the Winslop interface.
+
+<img width="455" height="656" alt="Winslop_annotated_outside_EN_v3" src="https://github.com/user-attachments/assets/63187411-e783-4cca-9bb8-5fc38438e21f" />
+
 
 ### Top bar
 - **Start button (☰)**  
